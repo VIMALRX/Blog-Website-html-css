@@ -1,0 +1,17 @@
+.head{
+    padding-left: 5%;
+    padding-top: 5%;
+    color: white;
+    background-color: rgb(145, 84, 5);
+}
+.two{
+    background-color: green;
+    padding: 5%;
+}
+.head1{
+    position: relative;
+    bottom: 42px;
+    color: white;
+    padding-left: 40%;
+    padding-top: 30px;
+}
